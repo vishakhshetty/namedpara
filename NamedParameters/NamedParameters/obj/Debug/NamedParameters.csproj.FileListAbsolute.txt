@@ -1,0 +1,7 @@
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\Async\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe.config
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\Async\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\Async\NamedParameters\NamedParameters\bin\Debug\NamedParameters.pdb
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\Async\NamedParameters\NamedParameters\obj\Debug\NamedParameters.csproj.AssemblyReference.cache
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\Async\NamedParameters\NamedParameters\obj\Debug\NamedParameters.csproj.CoreCompileInputs.cache
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\Async\NamedParameters\NamedParameters\obj\Debug\NamedParameters.exe
+C:\Users\Sumanth kumar\source\repos\Stage3\Hands on\Async\NamedParameters\NamedParameters\obj\Debug\NamedParameters.pdb
